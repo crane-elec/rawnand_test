@@ -4,7 +4,7 @@ Raspberry Pi Pico Rawnand test
 
 # Pinouts
 
-https://github.com/muraguchi/rawnand_test/blob/main/RawNAND_Pico_pinout.xlsx
+https://github.com/crane-elec/rawnand_test/blob/main/RawNAND_Pico_pinout.xlsx
 
 
 # How to compile
