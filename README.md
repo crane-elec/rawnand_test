@@ -40,3 +40,10 @@ s  <-input
 Status Read
 status=0x60
 ```
+
+## Example image on Pi400
+![Sample](img/sample1.png)
+
+![Pi400 GPIO](img/gpio1.jpg)
+
+![Pi400 GPIO](img/gpio2.jpg)
